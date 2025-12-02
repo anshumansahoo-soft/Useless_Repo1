@@ -1,0 +1,10 @@
+1-> Confluence Macros
+2-> Apply agile practices to manage your work
+3-> Configure agile boards for Jira projects
+4-> Mastering Workflows
+5-> Confluence Whiteboards: Plan, Track, Deliver
+6-> Get the most out of Jira
+7-> Set up Jira software projects to enable your team
+8-> Improve user experience across Jira with global settings
+9-> Jira Service Management (JSM) Playbooks | Help Guide your Agents
+10-> Get the most out of Jira Service Management
